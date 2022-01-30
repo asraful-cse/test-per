@@ -16,7 +16,7 @@ function App() {
           rel="noopener noreferrer"
         >
           Learn React change the code and brach change -----
-          marge adde part two..........
+          marge adde part two.........
         </a>
       </header>
     </div>
